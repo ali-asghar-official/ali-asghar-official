@@ -9,7 +9,7 @@
 - 🔭 I’m currently building **full-stack web applications**  
 - 🌱 Learning **Next.js & Advanced React**  
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
-- 📫 How to reach me: **your_email@example.com**  
+- 📫 How to reach me: **a.asghar@carepakistan.org*  
 - ⚡ Fun fact: *I believe consistency beats motivation!*  
 
 ---
